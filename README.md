@@ -24,9 +24,9 @@ DISTRIBUTION.
 Notate your Institution ID given to you by MAP-Works. It is utilized as a shared
 secret by their webservice.
 
-##Clone upstream (FIXME)
+##Clone upstream
 
-    git clone https://github.com/path/to/MAP-Works.git
+    git clone https://github.com/StEdwardsTeam/Mapworks-Luminis-SSO.git
     cd MAP-Works/[StudentMAPWorks|FacultyMAPWorks]
 
 ##Build
