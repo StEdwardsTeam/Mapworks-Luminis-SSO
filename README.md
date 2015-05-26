@@ -58,3 +58,8 @@ Check the catalina and luminis logs.
 You may need to import the MAP-Works SSL certificates into the Java keystore.
 
 You may need to patch Luminis' Java to have unlimited encryption.
+
+##License
+
+This software is released under the open source MIT license. Please refer to the
+file [LICENSE](LICENSE) for more information.
